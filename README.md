@@ -1,1 +1,3 @@
 # COMP562_Project
+
+Customer Churn is one of the most important metrics for evaluating business growth potential. In this project, we used dataset from Kaggle to predict the retention of customers based on their behaviors and personal information, such as payment method, demographic information and related services. We used 4 machine learning methods: Random Forest, Naive Bayes, K-Nearest Neighbors (KNN) and Support Vector Machine (SVM). After a series of tuning and remodeling, we achieved the highest accuracy of 77% on the test set produced by KNN, SVM and Naive Bayes. Data and our implementation is available at https://github.com/issacqzh/COMP562_Project
